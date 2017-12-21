@@ -23,7 +23,7 @@ from setuptools import setup
 
 
 setup(name="BasicCalculator",
-      version="0.1",
+      version="0.2",
       description="A simple calculator app",
       long_description=__doc__,
       url="https://github.com/Urosh91/Bitcoin-Value",
